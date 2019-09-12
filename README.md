@@ -1,1 +1,1 @@
-# glowing-guacamole [![Build Status](https://travis-ci.com/raoulkent/glowing-guacamole.svg?token=2joi6AcAqpprLQGR1Nfm&branch=master)](https://travis-ci.com/raoulkent/glowing-guacamole)
+# Gnomes-Tomes-and-Catacombs [![Build Status](https://travis-ci.org/Riddarvid/Gnomes-Tomes-and-Catacombs.svg?branch=master)](https://travis-ci.org/Riddarvid/Gnomes-Tomes-and-Catacombs)
