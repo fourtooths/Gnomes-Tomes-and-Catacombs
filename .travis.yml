@@ -1,5 +1,7 @@
 language: java
 
+before_script: cd game
+
 script: ./gradlew build
 
 notifications:
