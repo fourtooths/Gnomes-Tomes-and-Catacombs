@@ -1,8 +1,5 @@
 language: java
 
-before_script:
-- cd GnomeShooter
-
 script: ./gradlew build
 
 notifications:
